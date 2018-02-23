@@ -1,0 +1,22 @@
+body {
+    font-size: 20px;
+}
+table{
+    width: 70%;
+    margin: 30px auto;
+    border-collapse: collapse;
+    text-align: center;
+}
+tr, td, th{
+	border: 1px solid black;
+}
+
+form {
+    width: 40%;
+    margin: 50px auto;
+    text-align: left;
+    padding: 30px; 
+    border: 1px solid #bbbbbb;
+    border-radius: 5px;
+	background-color: #bddbdb
+}
